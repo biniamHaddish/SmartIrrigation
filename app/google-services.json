@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "283209360192",
+    "firebase_url": "https://smartirrgation.firebaseio.com",
+    "project_id": "smartirrgation",
+    "storage_bucket": "smartirrgation.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:283209360192:android:7a459fb248fd0931",
+        "android_client_info": {
+          "package_name": "berhane.haddish.biniam.com.smartirrigation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "283209360192-bns74j09uh56qis0b1bh6mjftokbievg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtYIJnHDMnUf-K1JTd-igG3zMkwllQ8uU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
